@@ -1,5 +1,7 @@
-### Hi, I'm Bogdan
+### Hi there , I'm Bogdan
 
+ I"m from romania
+ 
 ### I'm a student, hardworker and ready to learn new things
 
 - 🔭 Year 2 Computer Science
