@@ -4,8 +4,8 @@
  
 ### I'm a student, hardworker and ready to learn new things
 
-- 🔭 Year 2 Computer Science
-- 🌱 I’m currently learning Mobile Development 
+- 🔭 Year 3 Computer Science
+- 🌱 I’m currently learning Full Stack Dev
 - 👯 I’m looking after remote or office-based work
 
 ### Connect with me:
