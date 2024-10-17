@@ -2,9 +2,8 @@
 
  I"m from romania
  
-### I'm a student, hardworker and ready to learn new things
+### I'm a fresh graduate, hardworker and ready to learn new things
 
-- 🔭 Year 3 Computer Science
 - 🌱 I’m currently learning Full Stack Dev
 - 👯 I’m looking after remote or office-based work
 
